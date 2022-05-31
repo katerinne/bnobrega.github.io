@@ -48,12 +48,17 @@ a:focus{
 	}
 
 .btn-linkedin {
-	background: #0E76A8;
-	border-radius: 0;
-	color: #fff;
-	border-width: 1px;
+	background: #0E76A8;	
+	color: #fff;	
 	border-style: solid;
 	border-color: #084461;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 1px;
+	border-radius: 0px;
+	border-width: 2px;	
+	font-weight: 600;
   }
   .btn-linkedin:link, .btn-linkedin:visited {
 	color: #fff;
