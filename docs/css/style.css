@@ -33,6 +33,16 @@ p{
 	font-size: 13px;
 }
 
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	color: black;
+	font-weight: bold;
+	font-size: 2vw;
+}
+
 a { 
 	color: #ffffff;
 	transition: all 0.8;
