@@ -33,16 +33,6 @@ p{
 	font-size: 13px;
 }
 
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-	color: black;
-	font-weight: bold;
-	font-size: 2vw;
-}
-
 a { 
 	color: #ffffff;
 	transition: all 0.8;
@@ -185,6 +175,17 @@ a:focus{
 .section-title hr{
 	border-color: rgb(47, 147, 123);
 	width: 60px;
+}
+
+.subtitulos{
+	color: black;	
+	font-weight: 600; 
+	position: absolute;
+	text-align: center;
+	font-size: 17px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);	
 }
 
 .section-title h2{ font-weight: 700;}
